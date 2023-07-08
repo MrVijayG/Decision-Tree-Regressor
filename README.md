@@ -12,3 +12,5 @@ During training, the decision tree algorithm determines the best feature to spli
 Once the decision tree regression model is trained, it can be used to predict the target value for new instances by traversing the tree based on the features' values.
 
 It's important to note that decision trees are prone to overfitting, meaning they can learn to memorize the training data too well and perform poorly on unseen data. To address this, techniques like pruning, limiting tree depth, or using ensemble methods like random forests or gradient boosting can be employed.
+
+
